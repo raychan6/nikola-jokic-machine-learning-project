@@ -1,4 +1,4 @@
-# Nikola Jokic Machine Learning Project
+# Nikola Jokic Machine Learning Project (2022)
 
 ## Question: Can I predict whether the Denver Nuggets will win a regular season game solely based on Nikola Jokic's performance? 
 
