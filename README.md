@@ -9,4 +9,5 @@
 - Caveats: games where Jokic did not play were omitted, missing values were imputed using median, signs of overfitting, model performance may be dependent on how valuable the player is for his team
 
 | ![](https://github.com/raychan6/nikola-jokic-machine-learning-project/blob/main/images/confusion_matrix.png) |
+|:--:|
 | *Confusion matrix for SVM model* |
