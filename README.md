@@ -11,3 +11,8 @@
 | ![](https://github.com/raychan6/nikola-jokic-machine-learning-project/blob/main/images/confusion_matrix.png) |
 |:--:|
 | *Confusion matrix for SVM model* |
+
+
+| ![](https://github.com/raychan6/nikola-jokic-machine-learning-project/blob/main/images/testing_accuracies.png) |
+|:--:|
+| *Testing accuracies for the 4 models* |
