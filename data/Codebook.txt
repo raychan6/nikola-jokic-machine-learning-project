@@ -1,0 +1,44 @@
+g: number of game played in the season
+year: year of game played
+month: month of game played
+age: age at which the game was played
+location: court that the game was played on (Home or Away)
+opp: opponent team
+result: result of game (W or L)
+differential: point differential at the end of the game (negative values are losses)
+minutes: minutes played in game
+seconds: seconds played in game
+fg: field goals (baskets scored on any shots or taps other than free throws) 
+fga: field goal attempts
+fg_percent: ratio of field goals made to field goals attempted
+3p: 3-point field goals (field goal made from behind the 3-point line)
+3pa: 3-point field goal attempts
+3p_percent: ratio of 3-point field goals made to 3-point field goals attempted
+ft: free throws (unopposed attempts to score 1 point per basket made by shooting from behind the free throw line)
+fta: free throw attempts
+ft_percent: ratio of free throws made to free throws attempted
+orb: rebounds (balls retrieved after missed field goals or free throws) grabbed on offense in game played, maintaining possession of the ball
+drb: rebounds (balls retrieved after missed field goals or free throws) grabbed on defense in game played, gaining possession of the ball
+trb: total rebounds
+ast: passes to teammates that directly lead to a field goal or goaltending (points awarded due to defensive interference with the ball while on its way to the basket)
+stl: steals (legally causing a turnover while on defense)
+blk: blocks (legally deflecting a field goal attempt by the offensive player while on defense)
+tov: loss of possession of the ball to the opposing team
+pf: personal fouls (illegal personal contact with opponent)
+pts: points scored
+gm_sc: Game Score (measure of player's productivity developed by John Hollinger; 40 is considered an outstanding performance while 10 is considered an average performance)
+pm: plus-minus (difference between team's and opponent's total scoring when the player is in the game)
+ts_percent: true shooting percentage (measure of shooting efficiency that takes into account field goals, 3-point, and also free throws)
+efg_percent: effective field goal percentage (field goal percentage that accounts for that fact that 3-point field goals are worth one more point than 2-point field goals)
+orb_percent: offensive rebound percentage (estimate of percentage of available offensive rebounds the player grabbed while in the game)
+drb_percent: defensive rebound percentage (estimate of percentage of available defensive rebounds the player grabbed while in the game)
+trb_percent: total rebound percentage (estimate of percentage of available rebounds the player grabbed while in the game)
+ast_percent: assist percentage (estimate of percentage of teammate field goals the player assisted while in the game)
+stl_percent: steal percentage (estimate of percentage of opponent possessions that end with a steal by the player while in the game)
+blk_percent: block percentage (estimate of percentage of opponent 2-point field goal attempts blocked by the player while in the game)
+tov_percent: turnover percentage (estimate of turnovers per 100 plays)
+usv_percent: usage percentage (estimate of percentage of team plays the player was involved in while in the game)
+ortg: offensive rating (points produced by the player per 100 possessions)
+drtg: defensive rating (points allowed by the player/team per 100 possessions)
+bpm: box plus-minus (box score estimate of points per 100 possessions that the player contributed above a league-average player)
+ 
