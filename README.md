@@ -2,7 +2,7 @@
 
 ## Question: Can I predict whether the Denver Nuggets will win a regular season game solely based on Nikola Jokic's performance? 
 
-### This was my first experience with building machine learning models. The HTML file walks through my thought process, code, and conclusions. Below is a summary of my work:
+### The datasets were obtained from Basketball Reference. This was my first experience with building machine learning models. The HTML file walks through my thought process, code, and conclusions. Below is a summary of my work:
 
 - Built a logistic regression, support vector machines, random forest, and boosted trees model
 - Support vector machines model performed the best, correctly predicting about 90% of wins and 90% of losses solely based on Jokic's stats
